@@ -1,0 +1,22 @@
+{
+  "name": "vue-playbook",
+  "version": "1.0.0",
+  "description": "Course on Vue from PluralSight",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirjust/vue-playbook.git"
+  },
+  "author": "Justin Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirjust/vue-playbook/issues"
+  },
+  "homepage": "https://github.com/sirjust/vue-playbook#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
